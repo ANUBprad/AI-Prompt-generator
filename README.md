@@ -59,12 +59,6 @@ You can modify:
 -Models (Switch to OpenAI, Groq, Claude, or Ollama)
 -Output formatting
 
-📸 Screenshots (Optional)
-Add screenshots here of:
-1️⃣ Main form
-2️⃣ Follow-up questions
-3️⃣ Final output screen
-
 🙌 Contribution
 
 Feel free to open issues, suggest improvements, or submit PRs.
